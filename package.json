@@ -1,0 +1,27 @@
+{
+  "name": "github-create",
+  "version": "0.0.1",
+  "description": "A simple script that takes user input from the command line and uses it to init a git repo. It then calls the Github API to create the repo remotely. Finally, it makes an initial commit and sycs the repo with github.com.",
+  "main": "github-create",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ailijic/github-create.git"
+  },
+  "keywords": [
+    "command",
+    "line",
+    "script",
+    "git",
+    "github",
+    "create"
+  ],
+  "author": "Andrew N. Ilijic",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ailijic/github-create/issues"
+  },
+  "homepage": "https://github.com/ailijic/github-create#readme"
+}
